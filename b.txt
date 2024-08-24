@@ -1,1 +1,1 @@
-this is the contents of b
+this is the contents of b.txt
