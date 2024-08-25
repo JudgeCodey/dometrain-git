@@ -1,1 +1,1 @@
-added f.txt
+this is the contents of the fil file in main.txt
